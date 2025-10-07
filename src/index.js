@@ -18,24 +18,24 @@ import Dashboard from './pages/Dashboard';
 import Logout from './pages/Logout';
 
 const router = createBrowserRouter([
-   {
+  {
     path: "/",
-    element: <Layout/>,
-    errorElement: <ErrorPage/>,
-   children: [
-      {index: true, element: <Home />},
-      {path: "posts/:id", element: <PostDetail />},
-      {path: "register", element: <Register />},
-      {path: "login", element: <Login />},
-      {path: "profile/:id", element: <UserProfile />},
-      {path: "create", element: <CreatePost />},
-       {path: "posts/:id/edit", element: <EditPost />},
-      {path: "authors", element: <Authors />},
-      {path: "login", element: <Login />},
-      {path: "posts/categories/:category", element: <CategoryPosts />},
-      {path: "posts/users/:id", element: <AuthorPosts />},
-      {path: "myposts/:id", element: <Dashboard />},
-      {path: "logout", element: <Logout />},
+    element: <Layout />,
+    errorElement: <ErrorPage />,
+    children: [
+      { index: true, element: <Home /> },
+      { path: "posts/:id", element: <PostDetail /> },
+      { path: "register", element: <Register /> },
+      { path: "login", element: <Login /> },
+      { path: "profile/:id", element: <UserProfile /> },
+      { path: "create", element: <CreatePost /> },
+      { path: "posts/:id/edit", element: <EditPost /> },
+      { path: "authors", element: <Authors /> },
+      { path: "login", element: <Login /> },
+      { path: "posts/categories/:category", element: <CategoryPosts /> },
+      { path: "posts/users/:id", element: <AuthorPosts /> },
+      { path: "myposts/:id", element: <Dashboard /> },
+      { path: "logout", element: <Logout /> },
     ]
   }
 ])
@@ -44,7 +44,7 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-  <RouterProvider router={router}/>
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
