@@ -23,10 +23,7 @@ const PostDetail = () => {
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
             Voluptates doloribus quia consectetur sequi voluptas, ullam nihil,
-             adipisci laudantium distinctio corrupti doloremque ab consequatur. 
-            Natus nisi ipsum aspernatur nihil quo? Consectetur, soluta incidunt? 
-            Sunt assumenda tenetur obcaecati reiciendis
-             maiores? Accusantium, alias!
+            
           </p>
           <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam expedita porro illo explicabo velit laudantium odio autem, magnam beatae? Praesentium minus assumenda aspernatur illo ipsum quos ad deserunt corrupti ut earum repudiandae possimus soluta nobis, numquam eum? Beatae obcaecati cum voluptatem vitae, perspiciatis laborum aperiam ratione praesentium sunt dignissimos accusantium rem veniam ducimus soluta. Omnis?

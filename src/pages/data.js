@@ -11,7 +11,7 @@ export const DUMMY_POSTS = [
         thumbnail: Thumbnail1,
         category: 'education',
         title: 'This is the title of the very first post on this blog',
-        desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque iure rerum pariatur nam officiis error veritatis quidem, sit ex unde aliquid labore optio quod incidunt ab aspernatur quos? Dolore, pariatur. ',
+        desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque iure rerum pariatur nam officiis error. ',
         authorID: 3
     },
         {
@@ -19,7 +19,7 @@ export const DUMMY_POSTS = [
         thumbnail: Thumbnail2,
         category: 'science',
         title: 'This is the title of the very first post on this blog',
-        desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque iure rerum pariatur nam officiis error veritatis quidem, sit ex unde aliquid labore optio quod incidunt ab aspernatur quos? Dolore, pariatur. ',
+        desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque iure rerum pariatur nam officiis error veritatis. ',
         authorID: 1
     },
         {
@@ -27,7 +27,7 @@ export const DUMMY_POSTS = [
         thumbnail: Thumbnail3,
         category: 'weather',
         title: 'This is the title of the very first post on this blog',
-        desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque iure rerum pariatur nam officiis error veritatis quidem, sit ex unde aliquid labore optio quod incidunt ab aspernatur quos? Dolore, pariatur. ',
+        desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque iure rerum pariatur nam officiis error veritatis quidem, . ',
         authorID: 13
     },
         {
@@ -35,7 +35,7 @@ export const DUMMY_POSTS = [
         thumbnail: Thumbnail4,
         category: 'farming',
         title: 'This is the title of the very first post on this blog',
-        desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque iure rerum pariatur nam officiis error veritatis quidem, sit ex unde aliquid labore optio quod incidunt ab aspernatur quos? Dolore, pariatur. ',
+        desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque iure rerum pariatur nam officiis error veritatisr. ',
         authorID: 11
     },
 ]
