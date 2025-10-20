@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
 import PostItem from './PostItem'
-import { DUMMY_POSTS } from '../pages/data'
+import { DUMMY_POSTS } from '../data'
 
 
 
